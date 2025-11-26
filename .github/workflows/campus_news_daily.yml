@@ -2,7 +2,7 @@ name: Campus News Daily
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "*/5 * * * *"
       # 每天 15:00 UTC 跑一次（大概是你早上 7–8 点）
   workflow_dispatch:
 
