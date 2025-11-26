@@ -1,0 +1,25 @@
+feeds:
+  - id: uw_news
+    name: University of Washington News
+    url: "https://www.washington.edu/news/category/social-science/feed/"
+    tags: ["general", "university"]
+
+  - id: yale
+    name: Yale Daily News
+    url: "https://yaledailynews.com/feed/"
+    tags: ["general"]
+
+  - id: stanford
+    name: The Stanford Daily
+    url: "https://www.stanforddaily.com/feed/"
+    tags: ["general"]
+
+  - id: uo_emerald
+    name: Daily Emerald (UO)
+    url: "https://dailyemerald.com/feed/rss/"
+    tags: ["general", "home"]
+
+  - id: usc_annenberg
+    name: USC Annenberg News
+    url: "https://annenberg.usc.edu/rss.xml"
+    tags: ["comm_school"]
